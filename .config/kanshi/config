@@ -1,0 +1,9 @@
+profile HomeOffice {
+	output HDMI-A-2 mode 3440x1440 position 0,0
+	output eDP-1 disable
+}
+
+profile Laptop {
+	output eDP-1 mode 2160x1440 position 0,0
+}
+
